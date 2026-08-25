@@ -2,10 +2,11 @@ body {
     background-color:rgb(206, 198, 198);
     color: #bd9a9a;
     font-family: Arial, sans-serif;
+    margin: 0;
 }
 
 header {
-    background-color:aqua
+    background-color:rgb(219, 190, 228);
     color:white;
     text-align: center;
     padding: 30px;
@@ -28,15 +29,15 @@ p {
 
     nav a {
         color: white;
-        test-decoration: none;
-        background-color: aliceblue;
+        text-decoration: none;
+        background-color: rgb(75, 128, 175);
         padding: 10px 15px;
         border-radius: 8px;
         margin: 5px;
         display: inline-block;
     }
 
-    nav a: hover {
+    nav a:hover {
         background-color: black;
     }
 
@@ -63,7 +64,15 @@ p {
     figcaption {
         text-align: center;
         font-size: 14px;
-        color: aquamarine;
+        color: rgb(128, 224, 192);
+        margin-top: 8px;
+    }
+
+    card {
+        background-color: #7e1e81
+        padding: 15px;
+        margin: 15px 0;
+        border-left; 6px solid #6b2d5c
     }
     
 
