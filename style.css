@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color:rgb(102, 132, 214);
+    background-color:rgb(75, 107, 196);
     color:white;
     text-align: center;
     padding: 30px;
@@ -64,7 +64,7 @@ p {
     figcaption {
         text-align: center;
         font-size: 14px;
-        color: rgb(128, 224, 192);
+        color: rgb(83, 172, 142);
         margin-top: 8px;
     }
 
