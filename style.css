@@ -103,11 +103,8 @@ button {
 button:hover {
     background-color: black;
 }
-.curtir {
+.curtir {       
     display: block;
+    width: fit-content;
     margin: 20px auto;
-    padding: 10px 18px;
-    border: none;
-    border-radius: 8px;
-    cursor: pointer;
 }
