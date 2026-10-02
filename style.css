@@ -1,6 +1,6 @@
 body {
     background-color: rgb(33, 100, 155);
-    color: #319da5;
+    color: #1b5f64;
     font-family: Arial, sans-serif;
     margin: 0;
 }
@@ -92,7 +92,7 @@ footer {
 }
 
 button {
-    background-color:rgb(55, 187, 187);
+    background-color:rgb(9, 59, 59);
     color:aliceblue;
     border:#6b2d5c;
     padding: 10px 15px;
