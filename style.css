@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color: beige;
+    color: rgb(238, 238, 213);
 }
 
 p {
@@ -30,7 +30,7 @@ nav {
 }
 
 nav a {
-    color: white;
+    color: rgb(5, 33, 77);
     text-decoration: none;
     background-color: rgb(235, 239, 243);
     padding: 10px 15px;
