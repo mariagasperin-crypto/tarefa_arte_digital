@@ -67,7 +67,7 @@ img {
 figcaption {
     text-align: center;
     font-size: 14px;
-    color: rgb(83, 172, 142);
+    color: rgb(8, 61, 43);
     margin-top: 8px;
 }
 
@@ -94,7 +94,7 @@ footer {
 button {
     background-color:rgb(9, 59, 59);
     color:aliceblue;
-    border:#6b2d5c;
+    border:#031d4e;
     padding: 10px 15px;
     border-radius: 8px;
     cursor: pointer;
