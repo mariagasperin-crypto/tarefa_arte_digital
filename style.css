@@ -1,25 +1,25 @@
 :root{
-    --cor-fundo: 
-    --cor-texto:
-    --cor-principal:
-    --cor-secundaria:
-    --cor-hover:
-    --cor-superficie: 
-    --cor-card: 
-    --cor-legenda:
-    --cor-clara: 
-    --cor-rodape:
+    --cor-fundo:rgb(33, 100, 155);
+    --cor-texto:#1b5f64;
+    --cor-principal: rgb(9, 59, 59);
+    --cor-secundaria:white;
+    --cor-hover:rgb(238, 238, 213);
+    --cor-superficie:rgb(5, 33, 77);
+    --cor-card: rgb(235, 239, 243); 
+    --cor-legenda:black;
+    --cor-clara:rgb(187, 199, 199);
+    --cor-rodape:rgb(228, 241, 228);
 }
 body {
-    background-color: rgb(33, 100, 155);
-    color: #1b5f64;
+    background-color: var(--cor-principal)
+    color: var(var(--cor-secundaria));
     font-family: Arial, sans-serif;
     margin: 0;
 }
 
 header {
-    background-color: rgb(75, 107, 196);
-    color: white;
+    background-color:
+    color: 
     text-align: center;
     padding: 30px;
 }
@@ -29,7 +29,7 @@ h1 {
 }
 
 h2 {
-    color: rgb(238, 238, 213);
+    color: 
 }
 
 p {
@@ -42,9 +42,9 @@ nav {
 }
 
 nav a {
-    color: rgb(5, 33, 77);
+    color: 
     text-decoration: none;
-    background-color: rgb(235, 239, 243);
+    background-color: 
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -52,7 +52,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: black;
+    background-color:
 }
 
 main {
@@ -62,7 +62,7 @@ main {
 }
 
 section {
-    background-color: rgb(187, 199, 199);
+    background-color: 
     margin: 20px 0;
     padding: 20px;
     border-radius: 12px;
